@@ -1,0 +1,7 @@
+{
+  "name": "STORY AI: Visual Story Studio",
+  "description": "An immersive creative writing interface that transforms uploaded images into hauntingly beautiful opening paragraphs with integrated AI narration and storytelling assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
